@@ -1,2 +1,3 @@
 # prath-devOps
-Learning GitHub
+
+Creating a readme file for Learning GitHub
